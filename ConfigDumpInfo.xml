@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.4">
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.6">
 	<ConfigVersions>
-		<Metadata name="CommonForm.Форма" id="d815205a-97cf-4123-8cbc-72de7b76d0a4" configVersion="d6aa2eb6353d6843b67a6b6c86aaf2b200000000"/>
-		<Metadata name="CommonForm.Форма.Form" id="d815205a-97cf-4123-8cbc-72de7b76d0a4.0" configVersion="eec33b122a0f744491cd0c2242ac5de200000000"/>
-		<Metadata name="Configuration.ТестовоеЗадание1" id="1e57aea1-568d-4a90-9507-83da847c7ecf" configVersion="fd2eac20166dff48a8306a3c7d989e2100000000"/>
-		<Metadata name="Configuration.ТестовоеЗадание1.HomePageWorkArea" id="899bf7b8-cddd-41c6-92ab-f77ebac47609.8" configVersion="ddcdd432c22b8249aab8a0badb7d699e00000000"/>
-		<Metadata name="Language.Русский" id="6db1924a-1dae-4662-b250-461ea1d0c94f" configVersion="6b16e380a7a7d547abeb676842f5d3ea00000000"/>
+		<Metadata name="CommonForm.Форма" id="d815205a-97cf-4123-8cbc-72de7b76d0a4" configVersion="9377809012c56048ae20a6851a3dbeaf00000000"/>
+		<Metadata name="CommonForm.Форма.Form" id="d815205a-97cf-4123-8cbc-72de7b76d0a4.0" configVersion="1851598c58fa894fa7da4ce650cbc99e00000000"/>
+		<Metadata name="Configuration.ТестовоеЗадание1" id="1e57aea1-568d-4a90-9507-83da847c7ecf" configVersion="ee50121d2bc914458d67079039027e6200000000"/>
+		<Metadata name="Configuration.ТестовоеЗадание1.HomePageWorkArea" id="899bf7b8-cddd-41c6-92ab-f77ebac47609.8" configVersion="a217633c78b0d84bae6c0322a428bed100000000"/>
+		<Metadata name="Language.Русский" id="6db1924a-1dae-4662-b250-461ea1d0c94f" configVersion="cd9308cc307cb346841035989718519800000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
